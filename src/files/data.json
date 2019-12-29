@@ -1,0 +1,314 @@
+{
+  "totalByDesc": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 42869658.2999999672,
+    "Emissão Bilhete Aéreo": 41739770.8100116402,
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 23998210.7299999781,
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 21080342.9199999459,
+    "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS": 18170263.820000004,
+    "COMBUSTÍVEIS E LUBRIFICANTES": 15547396.449998213,
+    "TELEFONIA": 4573669.9700001217,
+    "PASSAGENS AÉREAS": 3493900.4600000307,
+    "SERVIÇOS POSTAIS": 1762648.8399999286,
+    "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 1697267.799999998,
+    "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 1394453.0,
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 1246586.2800000042,
+    "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA": 989361.8400000002,
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 858059.6700000243,
+    "ASSINATURA DE PUBLICAÇÕES": 262788.3499999989,
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 124760.4499999997,
+    "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES": 101550.0,
+    "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR": 94851.37
+  },
+  "totalByParty": {
+    "PT": 21201329.8500008136,
+    "PP": 14911153.410000056,
+    "PSL": 14431029.6900003795,
+    "PL": 13282767.8199999947,
+    "PSD": 13246370.9299999326,
+    "MDB": 13164710.9600000586,
+    "PSDB": 11723847.0300001316,
+    "REPUBLICANOS": 10521036.789999878,
+    "PDT": 10290940.0300000012,
+    "DEM": 9889328.2299998924,
+    "PSB": 9660296.2599999141,
+    "SOLIDARIEDADE": 5239044.8799999524,
+    "PTB": 4337193.5900000194,
+    "PROS": 3802065.3800000157,
+    "PODE": 3618266.439999999,
+    "PCdoB": 3339606.7500000154,
+    "PSOL": 3230624.4500000323,
+    "PSC": 2898059.079999974,
+    "CIDADANIA": 2280719.0400000024,
+    "AVANTE": 2005250.1600000018,
+    "PATRIOTA": 1643256.3000000042,
+    "PR": 1224079.3400000024,
+    "PV": 1033516.2299999971,
+    "NOVO": 703857.3500000001,
+    "PRB": 631892.45,
+    "REDE": 273468.3199999998,
+    "PPS": 219225.9100000001,
+    "PHS": 180173.3900000002,
+    "PATRI": 163937.8600000002,
+    "PPL": 44925.75
+  },
+  "totalByPolitician": [
+    {
+      "parlamentar": "PROFESSORA MARCIVANIA",
+      "partido": "PCdoB",
+      "vlrDocumento": 542994.4800000003
+    },
+    {
+      "parlamentar": "FLAVIANO MELO",
+      "partido": "MDB",
+      "vlrDocumento": 489987.2099999999
+    },
+    {
+      "parlamentar": "JÉSSICA SALES",
+      "partido": "MDB",
+      "vlrDocumento": 489670.0799999996
+    },
+    {
+      "parlamentar": "DELEGADO ÉDER MAURO",
+      "partido": "PSD",
+      "vlrDocumento": 486071.3299999997
+    },
+    {
+      "parlamentar": "HILDO ROCHA",
+      "partido": "MDB",
+      "vlrDocumento": 477050.9299999996
+    },
+    {
+      "parlamentar": "JOÃO MARCELO SOUZA",
+      "partido": "MDB",
+      "vlrDocumento": 476087.3299999998
+    },
+    {
+      "parlamentar": "AFONSO MOTTA",
+      "partido": "PDT",
+      "vlrDocumento": 470482.0600000004
+    },
+    {
+      "parlamentar": "HÉLIO LEITE",
+      "partido": "DEM",
+      "vlrDocumento": 470332.3499999995
+    },
+    {
+      "parlamentar": "AUGUSTO COUTINHO",
+      "partido": "SOLIDARIEDADE",
+      "vlrDocumento": 467706.2599999998
+    },
+    {
+      "parlamentar": "JAQUELINE CASSOL",
+      "partido": "PP",
+      "vlrDocumento": 467042.2099999997
+    },
+    {
+      "parlamentar": "GONZAGA PATRIOTA",
+      "partido": "PSB",
+      "vlrDocumento": 466306.7799999989
+    },
+    {
+      "parlamentar": "RICARDO TEOBALDO",
+      "partido": "PODE",
+      "vlrDocumento": 465847.2
+    },
+    {
+      "parlamentar": "VANDER LOUBET",
+      "partido": "PT",
+      "vlrDocumento": 465196.6599999987
+    },
+    {
+      "parlamentar": "VAIDON OLIVEIRA",
+      "partido": "PROS",
+      "vlrDocumento": 465003.9400000002
+    },
+    {
+      "parlamentar": "PERPÉTUA ALMEIDA",
+      "partido": "PCdoB",
+      "vlrDocumento": 464636.0099999994
+    },
+    {
+      "parlamentar": "ALAN RICK",
+      "partido": "DEM",
+      "vlrDocumento": 463282.7900000003
+    },
+    {
+      "parlamentar": "DOMINGOS NETO",
+      "partido": "PSD",
+      "vlrDocumento": 463054.9099999996
+    },
+    {
+      "parlamentar": "DRA. VANDA MILANI",
+      "partido": "SOLIDARIEDADE",
+      "vlrDocumento": 461741.7799999997
+    },
+    {
+      "parlamentar": "MARRECA FILHO",
+      "partido": "PATRIOTA",
+      "vlrDocumento": 460811.4299999998
+    },
+    {
+      "parlamentar": "JOÃO DANIEL",
+      "partido": "PT",
+      "vlrDocumento": 460211.9099999999
+    }
+  ],
+  "totalByProvider": [
+    {
+      "fornecedor": "Cia Aérea - TAM",
+      "descricao": "Emissão Bilhete Aéreo",
+      "vlrDocumento": 18901089.9300019145
+    },
+    {
+      "fornecedor": "Cia Aérea - GOL",
+      "descricao": "Emissão Bilhete Aéreo",
+      "vlrDocumento": 15418576.0500006825
+    },
+    {
+      "fornecedor": "Cia Aérea - AZUL",
+      "descricao": "Emissão Bilhete Aéreo",
+      "vlrDocumento": 5836863.8599998709
+    },
+    {
+      "fornecedor": "PANTANAL VEÍCULOS LTDA",
+      "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "vlrDocumento": 1975160.8499999999
+    },
+    {
+      "fornecedor": "TAM LINHAS AEREAS S\\/A.",
+      "descricao": "PASSAGENS AÉREAS",
+      "vlrDocumento": 1178014.499999997
+    },
+    {
+      "fornecedor": "Cia Aérea - AVIANCA",
+      "descricao": "Emissão Bilhete Aéreo",
+      "vlrDocumento": 1136178.6499999878
+    },
+    {
+      "fornecedor": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+      "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "vlrDocumento": 1005334.0
+    },
+    {
+      "fornecedor": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "descricao": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "vlrDocumento": 969171.9200000031
+    },
+    {
+      "fornecedor": "DMD Gestão Administrativa LTDA - ME",
+      "descricao": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "vlrDocumento": 735000.0
+    },
+    {
+      "fornecedor": "CELULAR FUNCIONAL",
+      "descricao": "TELEFONIA",
+      "vlrDocumento": 733252.1100000045
+    },
+    {
+      "fornecedor": "TELEFÔNICA BRASIL S.A. VIVO",
+      "descricao": "TELEFONIA",
+      "vlrDocumento": 703120.1599999972
+    },
+    {
+      "fornecedor": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+      "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "vlrDocumento": 629003.0
+    },
+    {
+      "fornecedor": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+      "descricao": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "vlrDocumento": 595500.0
+    },
+    {
+      "fornecedor": "GOL LINHAS AEREAS S.A.",
+      "descricao": "PASSAGENS AÉREAS",
+      "vlrDocumento": 574112.9699999995
+    },
+    {
+      "fornecedor": "GP COBERTURA JORNALISTICA LTDA ME",
+      "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "vlrDocumento": 476500.0
+    },
+    {
+      "fornecedor": "Cia Aérea - PASSAREDO",
+      "descricao": "Emissão Bilhete Aéreo",
+      "vlrDocumento": 447062.3200000008
+    },
+    {
+      "fornecedor": "RAMA AGENCIA DIGITAL LTDA",
+      "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "vlrDocumento": 439150.0
+    },
+    {
+      "fornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "vlrDocumento": 429236.1999999997
+    },
+    {
+      "fornecedor": "TELEFONICA BRASIL S.A.",
+      "descricao": "TELEFONIA",
+      "vlrDocumento": 406978.0699999991
+    },
+    {
+      "fornecedor": "LINDERLANDIO BARBOSA ME",
+      "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "vlrDocumento": 403400.0
+    }
+  ],
+  "totalByUF": {
+    "SP": 21344794.0399999991,
+    "MG": 16801176.879999999,
+    "BA": 15061434.3800000008,
+    "RJ": 14717335.4600000009,
+    "PR": 10392590.0199999996,
+    "RS": 10358597.6300000008,
+    "PE": 9164798.6799999997,
+    "CE": 8970611.0800000001,
+    "PA": 7067374.5899999999,
+    "MA": 6912387.8600000003,
+    "GO": 5242124.3300000001,
+    "PB": 4835950.2599999998,
+    "SC": 4734482.0700000003,
+    "PI": 3917875.2999999998,
+    "AC": 3688442.2400000002,
+    "AP": 3606121.4199999999,
+    "AM": 3497696.3500000001,
+    "AL": 3428483.6000000001,
+    "RR": 3420761.48,
+    "SE": 3214997.4500000002,
+    "ES": 3064431.3599999999,
+    "TO": 3047642.5899999999,
+    "RN": 2961324.0299999998,
+    "RO": 2805928.8999999999,
+    "MS": 2785633.8300000001,
+    "MT": 2581902.0499999998,
+    "DF": 1567075.79
+  },
+  "totalByAvgDesc": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 65449.86,
+    "Emissão Bilhete Aéreo": 59121.4883994334,
+    "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS": 45884.5045959596,
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 44940.4695318352,
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 33249.7522397476,
+    "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 32429.1395348837,
+    "COMBUSTÍVEIS E LUBRIFICANTES": 22084.3699573863,
+    "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES": 14507.1428571429,
+    "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA": 12065.3882926829,
+    "PASSAGENS AÉREAS": 9625.070137741,
+    "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR": 8622.8518181818,
+    "TELEFONIA": 5717.0874625,
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 4190.784691358,
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 3541.4382954545,
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 2584.5170783133,
+    "SERVIÇOS POSTAIS": 2525.2848710602,
+    "ASSINATURA DE PUBLICAÇÕES": 1863.7471631206,
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 1084.8734782609
+  },
+  "overview": {
+    "totalAmount": 180005541.06,
+    "mostExpMonth": {
+      "month": "Agosto",
+      "amount": 19135962.03
+    }
+  }
+}

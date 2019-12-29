@@ -1,0 +1,22 @@
+@import '../../styles/default.scss';
+
+.list {
+  padding: 0 1em;
+  margin-bottom: 1em;
+  list-style: decimal;
+  overflow-wrap: normal;
+  white-space: normal;
+
+  li {
+    margin-bottom: 1em;
+
+    h4 {
+      font-weight: normal;
+    }
+
+    p {
+      font-weight: 600;
+      color: $yellow;
+    }
+  }
+}

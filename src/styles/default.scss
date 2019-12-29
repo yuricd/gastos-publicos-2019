@@ -1,0 +1,166 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../assets/fonts/robotocondensed-regular-webfont.woff2') format('woff2'),
+       url('../assets/fonts/robotocondensed-regular-webfont.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../assets/fonts/robotocondensed-bold-webfont.woff2') format('woff2'),
+       url('../assets/fonts/robotocondensed-bold-webfont.woff') format('woff');
+  font-weight: 500;
+}
+
+
+$yellow: #F0B00B;
+$black: #121214;
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+::selection {
+  background: $yellow;
+  color: $black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $black;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 14px;
+  color: #FFF;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #FFF;
+  text-decoration: underline;
+}
+
+h1 {
+  width: 100%;
+  color: #FFF;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+}
+
+button {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.4rem;
+}
+
+.yellow {
+  color: $yellow;
+}
+
+.globalWrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.btn {
+  cursor: pointer;
+  border: 2px solid $yellow;
+  padding: .7em 3.5em;
+  background: none;
+  color: $yellow;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}
+
+.next {
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  cursor: pointer;
+  background: url('../assets/right.svg') center no-repeat $yellow;
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+  color: $black;
+  text-indent: -9999999em;
+}
+
+.content {
+  padding: 3em 2em;
+}
+
+@mixin slideLeftMI($duration, $delay) {
+  animation: slideLeft $duration ease $delay;;
+}
+
+@mixin slideUpMI($duration, $delay) {
+  animation: slideUp $duration ease $delay;;
+}
+
+@mixin fadeInMI($duration, $delay) {
+  animation: fadeIn $duration ease $delay;;
+}
+
+.slideLeft1s {
+  @include slideLeftMI(1s, 0s);
+}
+
+.slideLeft2s {
+  @include slideLeftMI(2s, 0s);
+}
+
+.slideLeft3s {
+  @include slideLeftMI(2.5s, 0s);
+}
+
+.slideUp1s {
+  @include slideUpMI(1s, 0s);
+}
+
+.titleAnimation {
+  @include fadeInMI(1s, 0s);
+}
+
+
+@keyframes slideLeft {
+  0% {
+    opacity: 0;
+    margin-left: 20%;
+  }
+
+  100% {
+    opacity: 1;
+    margin-left: 0;
+  }
+} 
+
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    margin-top: 10%;
+  }
+
+  100% {
+    opacity: 1;
+    margin-top: 0;
+  }
+} 
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+} 

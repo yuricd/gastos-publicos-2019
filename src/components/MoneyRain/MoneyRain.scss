@@ -1,0 +1,56 @@
+$particles: 100;
+$moneyDuration: 15s;
+$coinDuration: 7s;
+$moneyDim: 55px;
+$coinDim: 30px;
+
+.moneyRain {
+  z-index: -1;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  opacity: .12;
+}
+
+.money {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: $moneyDim;
+  height: $moneyDim;
+  background: url('../../assets/money.svg') no-repeat;
+  animation: $moneyDuration infinite falling linear;
+}
+
+.coin {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: $coinDim;
+  height: $coinDim;
+  background: url('../../assets/coin.svg') no-repeat;
+  animation: $coinDuration infinite falling linear;
+}
+
+@for $i from 1 through $particles {
+  .money--#{$i} {
+    left: random() * 100%;
+    animation-delay: -(random() * $moneyDuration );
+  }
+
+  .coin--#{$i} {
+    left: random() * 100%;
+    animation-delay: -(random() * $coinDuration );
+  }
+}
+
+@keyframes falling {
+  0% {
+    transform: translate(0,0);
+  }
+  
+  100% {
+    transform: translate(0,100vh);
+  }
+}
