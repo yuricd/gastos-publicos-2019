@@ -5,4 +5,4 @@ Esse projeto foi criado para fins informativos e todos os dados utilizados são 
 A análise de dados foi feita utilizando Python e o código, bem como os dados originais da análise, podem ser acessados `/src/files/`.
 
 
-Em caso de dúvidas. erros ou dados incorretos, por favor, envie-me uma mensagem por ![yuridelgado.dev](yuridelgado.dev).
+Em caso de dúvidas. erros ou dados incorretos, por favor, envie-me uma mensagem por ![https://yuridelgado.dev](yuridelgado.dev).
